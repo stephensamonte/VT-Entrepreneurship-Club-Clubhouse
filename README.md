@@ -1,5 +1,9 @@
 # VT-Entrepreneurship-Club-Clubhouse
- 
+
+EClub CRC Concept Design. Hannah Stephenson is instructing me what to include in the space. 
+
+## Latest Showcase Video: 
+[![Latest Showcase](https://img.youtube.com/vi/1RKZhQ0pr6w/0.jpg)](https://www.youtube.com/watch?v=1RKZhQ0pr6w)
 
 ## Journal 
 

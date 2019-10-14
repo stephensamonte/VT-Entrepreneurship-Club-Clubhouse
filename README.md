@@ -1,6 +1,10 @@
 # VT-Entrepreneurship-Club-Clubhouse
 
-EClub CRC Concept Design. Hannah Stephenson is instructing me what to include in the space. 
+EClub CRC Concept Design. Hannah Stephenson led the creation of this with me.
+
+# Environment 
+
+The 3D model is a Google SketchUp file. To view and make edits to it you can launch the [Google SketchUp](https://www.sketchup.com/) Web Application and import the file to make edits
 
 ## Latest Showcase Video: 
 [![Latest Showcase](https://img.youtube.com/vi/1RKZhQ0pr6w/0.jpg)](https://www.youtube.com/watch?v=1RKZhQ0pr6w)

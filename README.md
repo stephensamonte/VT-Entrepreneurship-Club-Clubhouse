@@ -2,12 +2,12 @@
 
 EClub CRC Concept Design. Hannah Stephenson led the creation of this with me.
 
+## Latest Showcase Video: 
+[![Latest Showcase](https://img.youtube.com/vi/1RKZhQ0pr6w/0.jpg)](https://www.youtube.com/watch?v=1RKZhQ0pr6w)
+
 # Environment 
 
 The 3D model is a Google SketchUp file. To view and make edits to it you can launch the [Google SketchUp](https://www.sketchup.com/) Web Application and import the file to make edits
-
-## Latest Showcase Video: 
-[![Latest Showcase](https://img.youtube.com/vi/1RKZhQ0pr6w/0.jpg)](https://www.youtube.com/watch?v=1RKZhQ0pr6w)
 
 ## Journal 
 

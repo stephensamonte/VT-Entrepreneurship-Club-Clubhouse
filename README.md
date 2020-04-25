@@ -7,7 +7,7 @@ EClub CRC Concept Design. Hannah Stephenson led the creation of this with me.
 
 # Environment 
 
-The 3D model is a Google SketchUp file. To view and make edits to it you can launch the [Google SketchUp](https://www.sketchup.com/) Web Application and import the file to make edits
+The 3D model is a Google SketchUp file. To view and make edits to it you can launch the [Google SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free) Web Application and import the file to make edits
 
 ## Journal 
 
